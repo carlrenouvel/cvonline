@@ -1,1 +1,184 @@
 <!DOCTYPE html>
+<html>
+
+<head>
+	<title></title>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<link href="https://fonts.googleapis.com/css?family=Julius+Sans+One" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+</head>
+
+<body>
+
+<header id="header">
+	<center>
+		<img src="photoheader.jpg" align="center" width="150" height="150" id="phototronche"/>
+		<h1 id="titre0">CARL RENOUVEL</h1>
+	</center>
+</header>
+
+<center>
+<nav>
+<div class="menu">
+	<ul id="navigation">
+  		<li><a href="#" title="Concept">Formation scolaire</a> </li>
+  		<li><a href="#" title="S'abonner">Expériences professionnelles</a></li>
+  		<li><a href="#" title="L'offrir">Compétences</a></li>	
+  		<li><a href="#" title="Se connecter">Me contacter</a></li>
+	</ul>
+</div>
+</nav>
+</center>
+	
+	<center>
+		<h2 id="titre1"><mark> À propos de moi </mark></h2>
+
+				<h4 id="aproposdemoi"> Je m'appelle Carl, j'ai 25 ans, et je suis actuellement étudiant en Master Grande École, à Télécom École de Management, spécialisé dans le Marketing digital. Fort de plusieurs années d'expériences, j'ai toujours fait en sorte de professionnaliser au maximum mes études. 
+				</h4>
+				<img src="http://events.it-sudparis.eu/intmag/html/11/_lib/_img/www/logos.jpg" width="360" height="180"/>
+	</center>
+
+	<h2 id="titre2"><mark> Formation scolaire </mark></h2>
+
+		<h3 id="anneeetude">2009</h3>
+			<h4 id="ecole">Lycée Jules Ferry - Conflans Sainte-Honorine
+			</h4>
+			<h5 id="formation"> Baccalauréat Littéraire</h5>
+
+		<h3 id="anneeetude">2009-2011</h3>
+			<h4 id="ecole">IUT Paris XIII Cité Sorbonne
+			</h4>
+				<h5 id="formation"> DUT Techniques de commercialisation en alternance
+				</h5>
+
+		<h3 id="anneeetude">2013</h3>
+			<h4 id="ecole">IUT Paris XIII Cité Sorbonne
+			</h4>
+				<h5 id="formation"> Licence professionnelle Management des Organisations en apprentissage
+				</h5>
+			
+
+		<h3 id="anneeetude">2014-2017</h3>
+			<h4 id="ecole">Telecom École de Management
+			</h4>
+				<h5 id="formation">Master Grande École spécialité Marketing Digital
+				</h5>
+
+	<h2 id="titre3"><mark> Expérience professionnelle </mark></h2>
+
+		<h3 id="anneetravail">2009-2011
+		</h3>
+
+			<h4 id="poste">Vendeur B2B dans le cadre de mon DUT Techniques de Commercialisation en alternance
+			France Télécom - Orange
+			</h4>
+				<ul id="missions">
+					<li>Vente de produits IT</li>
+					<li>Relations commerciales B2B (35 appels par jour en moyenne)</li>
+					<li>Rédaction d'argumentaires de vente</li>
+					<li>Gestion de la clientèle</li>
+					<li>Gestion des réclamations</li>
+				</ul>
+
+		<h3 id="anneetravail">2011-2012
+		</h3>
+
+			<h4 id="poste">Chef de rayon junior
+		Monoprix France
+			</h4>
+				<ul id="missions">
+					<li>Gestion du rayon primeur</li>
+					<li>Commande des produits frais</li>
+					<li>Gestion des stocks</li>
+					<li>Gestion de la chaîne du froid</li>
+					<li>Mise en rayon des produits</li>
+				</ul>
+
+		<h3 id="anneetravail">2012-2013
+		</h3>
+
+			<h4 id="poste">Chef de produit Junior spécialisé en cartes SIM et technologie NFC dans le cadre de ma Licence professionnelle Management des Organisations en alternance
+			Orange Business Services
+			</h4>
+				<ul id="missions">
+					<li>Création d'offres commerciales</li>
+					<li>Rédaction de processes de vente</li>
+					<li>Responsable de la veille concurentielle</li>
+					<li>Suivi des ventes</li>
+					<li>Refonte intégrale du Welcome Pack</li>
+				</ul>
+
+		<h3 id="anneetravail">2013-2014
+		</h3>
+
+			<h4 id="poste">Responsable de cuisine
+			Mc Donald's France
+			</h4>
+				<ul id='missions'>
+					<li>Inventaire des stocks</li>
+					<li>Maintenance et entretien des cuisines</li>
+					<li>Préparation des produits finis</li>
+					<li>Commande des produits</li>
+					<li>Formation des nouveaux arrivants</li>
+				</ul>
+
+		<h3 id="anneetravail">2015-2016
+		</h3>
+			<h4 id="poste">Manager Marketing et Communication dans le cadre de mon Master Grande École
+			</h4>
+				<ul id="missions">
+					<li>Négociation et gestion de 5 partenariats</li>
+					<li>Création de visuels</li>
+					<li>Community Management (58k Likes, 20k Followers)</li>
+					<li>Relations fournisseurs et distributeurs</li>
+					<li>Gestion des stocks et des retours</li>
+				</ul>
+
+	<h2 id="titre4"><mark> Compétences </mark></h2>
+
+		<center>
+		<h3 id="informatique">Compétences informatiques</h3>
+			<img src="msoffice.jpg" width="200" height="200"/>
+			<img src="photoshop.jpg" width="200" height="200"/>
+			<img src="hootsuite.jpg" width="200" height="200"/>
+			<img src="wordpress.jpg" width="200" height="200"/>
+			<img src="sapcrm.jpg" width="200" height="200"/>
+			<img src="digimind.jpg" width="200" height="200"/>
+		</center>
+
+		<center>
+		<h3 id="linguistique">Compétences linguistiques</h3>
+			<img src="francais.jpg" width="200" height="200"/>
+			<img src="anglais.jpg" width="200" height="200"/>
+			<img src="espagnol.jpg" width="200" height="200"/>
+			<img src="chinois.jpg" width="200" height="200"/>
+		</center>
+	
+	<h2 id="titre5"><mark> Loisirs et projets étudiants </mark></h2>
+
+		<h3 id="loisirs">Loisirs</h3>
+
+			<ul id="listeloisirs">
+				<li>Graphisme : Création de visuels pour jeunes entreprises : Logos, plaquettes commerciales, cartes de visite</li>
+				<li>Voyages : États-Unis, Canada, Angleterre, Écosse, Espagne, Portugal, Italie, Suisse, Allemagne, Belgique, Pays-Bas, Croatie</li>
+			</ul>
+
+		<h3 id="projets">Projets étudiants</h3>
+
+			<ul id="listeprojets">
+				<li>Chef de projet au sein de la Junior-Entreprise Sprint et travail d'équipe sur l'obtention de la norme ISO 9001 </li>
+				<li>Création du site internet sous Wordpress : www.marisaberlenga.com</li>
+			</ul>
+
+	<h2 id="titre6"><mark> Me contacter </mark></h2>
+		<center>
+		<img src="adresse.jpg" width="200" height="200"/>
+		<img src="mail.jpg" width="200" height="200"/>
+		<img src="telephone.jpg" width="200" height="200"/>
+		<a href="https://fr.linkedin.com/in/carl-renouvel-a0071160"><img src="linkedin.jpg" alt= "linkedin" width="200" height="200"></a>
+		</center>
+
+
+</body>
+</html>
